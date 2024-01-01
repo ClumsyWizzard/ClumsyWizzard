@@ -1,3 +1,6 @@
+<html>
+<body>
+    <link rel="stylesheet" href="styles.css">
 
     <h1 align="center">Hi 👋, I'm Kumar Kartikeya</h1>
     <h3 align="center">A passionate frontend developer from India</h3>
@@ -44,3 +47,5 @@
     <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=clumsywizzard&show_icons=true&locale=en&layout=compact"
             alt="clumsywizzard" /></p>
+</body>
+</html>
