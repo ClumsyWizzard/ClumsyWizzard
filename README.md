@@ -1,14 +1,10 @@
 <html>
 <body>
     <link rel="stylesheet" href="styles.css">
-
     <h1 align="center">Hi 👋, I'm Kumar Kartikeya</h1>
     <h3 align="center">A passionate frontend developer from India</h3>
-
     - 🌱 I’m currently learning **React**
-
     - 💬 Ask me about **Arduino, AR/VR, Figma**
-
     <h3 align="left">Connect with me:</h3>
     <p align="left">
        <div class = "socials-container">
@@ -24,11 +20,8 @@
         </div></p>
     <h2 align="left">Languages and Tools:</h2>
     <p align="left">
-
         <div class= "logo-container">
-            
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop"/> 
-
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premiere Pro"/>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator"/>
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/> 
@@ -42,8 +35,6 @@
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino"/> 
         </div>
     </p>
-
-
     <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=clumsywizzard&show_icons=true&locale=en&layout=compact"
             alt="clumsywizzard" /></p>
