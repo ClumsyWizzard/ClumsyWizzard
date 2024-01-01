@@ -1,0 +1,32 @@
+
+
+
+.logo-container img {  
+    
+    width: 2%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    background-color: white;
+    display: inline-block; 
+}
+
+.socials-container img {
+    
+    width: 2%;
+    height: auto;
+    
+    object-fit: cover; 
+    object-position: center; 
+    display: block;
+    display: inline-block; 
+}
+
+
+.logo-container img:hover {
+   
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a subtle box shadow on hover */
+    transition: border 0.3s ease, box-shadow 0.3s ease; /* Add a smooth transition effect */
+  }
+  
