@@ -18,8 +18,8 @@
     display: inline-block; 
 }
 .logo-container img:hover {
-   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a subtle box shadow on hover */
-    transition: border 0.3s ease, box-shadow 0.3s ease; /* Add a smooth transition effect */
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition: border 0.3s ease, box-shadow 0.3s ease; /
   }
     </style>
 <body>
