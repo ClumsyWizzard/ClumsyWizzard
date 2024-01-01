@@ -1,6 +1,4 @@
 
-    <link rel="stylesheet" href="styles.css">
-
     <h1 align="center">Hi 👋, I'm Kumar Kartikeya</h1>
     <h3 align="center">A passionate frontend developer from India</h3>
 
