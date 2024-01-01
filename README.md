@@ -1,4 +1,5 @@
 <html>
+<head>
 <style>
     .logo-container img {     
     width: 2%;
@@ -21,9 +22,10 @@
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     transition: border 0.3s ease, box-shadow 0.3s ease; /
   }
-    </style>
+    </style></head>
 <body>
     <link rel="stylesheet" href="styles.css">
+    <h1 align="center">Under Processssss.. .  . .</h1>
     <h1 align="center">Hi 👋, I'm Kumar Kartikeya</h1>
     <h3 align="center">A passionate frontend developer from India</h3>
     - 🌱 I’m currently learning **React**
