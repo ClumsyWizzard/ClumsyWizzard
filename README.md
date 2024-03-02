@@ -42,10 +42,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png"
             alt="C"
             style="width: 5%; height: auto; object-fit: cover; object-position: center; display: block;  display: inline-block;" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png "
+        <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
             alt="Csharp"
             style="width: 5%; height: auto; object-fit: cover; object-position: center; display: block;  display: inline-block;" />
-        <img src="https://education.oracle.com/file/general/p-80-java.png" alt="Java"
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" alt="Java"
             style="width: 5%; height: auto; object-fit: cover; object-position: center; display: block;  display: inline-block;" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
             alt="Python"
